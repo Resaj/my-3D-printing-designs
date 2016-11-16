@@ -1,7 +1,7 @@
 # My 3D printing designs
 This is a collection of some of my 3D printing designs.
 
-## Autor
+## Author
 [Rubén Espino San José](https://github.com/Resaj)
 
 ## License
