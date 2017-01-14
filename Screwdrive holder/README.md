@@ -1,7 +1,7 @@
 # Screwdrive holder
 
 <p align="center">
-<img src="images/Holder.jpg" width="400" align = "center">
+<img src="images/Holder.jpg" width="450" align = "center">
 </p>
 
 ## Author
