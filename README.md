@@ -1,6 +1,10 @@
 # My 3D printing designs
 This is a collection of some of my 3D printing designs.
 
+<p align="center">
+<img src="Amante Guisante/images/Amante Guisante.jpg" width="400" align = "center">
+</p>
+
 ## Author
 [Rubén Espino San José](https://github.com/Resaj)
 
