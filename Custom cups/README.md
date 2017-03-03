@@ -1,6 +1,6 @@
 # Custom cups
 
-I made this custom cups as a present for my grandfathers.
+I made these custom cups as a present for my grandfathers.
 
 <p align="center">
 <img src="images/Custom cups.png" width="400" align = "center">
