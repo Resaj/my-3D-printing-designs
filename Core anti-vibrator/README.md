@@ -7,5 +7,5 @@ It's easy to lose them, so I have designed the core to replace the lost.
 <img src="images/Core anti-vibrator.png" width="300" align = "center">
 </p>
 
-## Autor
+## Author
 [Rubén Espino San José](https://github.com/Resaj)
