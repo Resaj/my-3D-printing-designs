@@ -4,7 +4,7 @@ Have you ever need a hair comb in any stressing moment? Does your rebeld hair cl
 You're lucky! Here is the classic grandmother's hair comb in a Keychain format!!
 
 <p align="center">
-<img src="images/Hair comb.png" width="250" align = "center">
+<img src="images/Hair comb.png" width="400" align = "center">
 </p>
 
 ## Author
